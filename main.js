@@ -6,12 +6,10 @@ function criaCartao(categoria, pergunta, resposta){
   <div class= ="conteudo-cartao"> 
   <h3>${categoria}</h3>
   <div class = "pergunta-cartao">
-  <h3>${pergunta}</h3>
-  <p>pergunta</p>
+  <p>${pergunta}</p>
   </div>
   <div class = "resposta-cartao">
-  <h3>${resposta}</h3>
-  <p>resposta</p>
+  <p>${resposta}</p>
   </div>
   </div>`
   container.appendChild(cartao)
