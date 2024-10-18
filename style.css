@@ -34,9 +34,9 @@ margin: 1rem;
 }
 
 .conteudo-cartao{
-    background-color: var(--frente-cartao);
+    background-color: var(--rosa);
     text-align: center;
     height:  100%;
-    color: var(--rosa);
+    color: var(--frente-cartao);
 
 }
