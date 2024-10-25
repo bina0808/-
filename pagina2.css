@@ -37,3 +37,10 @@ footer{
     gap: 3rem;
     padding: 2rem;
 }
+
+.cartao{
+    background-color: var(--frente-cartao);
+    border: 1px solid var(--destaque);
+    padding: 40px;
+    color: #becad1;
+}
