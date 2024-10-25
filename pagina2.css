@@ -44,8 +44,10 @@ footer{
     padding: 40px;
     color: #000000;
     box-shadow: 5px 6px 25px var(--rosa);
+    cursor: pointer;
 }
 
 .cartao:hover{
     transform: scale(1.04);
 }
+.resposta-color:

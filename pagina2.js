@@ -15,3 +15,7 @@ function criaCartao(categoria, pergunta, resposta){
     `
     container.appendChild(cartao)
   }
+
+  function mosrarResposta(card){
+    const resposta = card.querySelector('resposta-cartao');
+  }
