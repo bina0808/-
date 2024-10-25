@@ -71,7 +71,7 @@ margin: 1rem;
     font-size: 1.4vw;
 }
 
-.cartao:active .conteudo-cartao{
+.cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 .pergunta-cartao, .resposta-cartao{
