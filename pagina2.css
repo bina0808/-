@@ -43,4 +43,5 @@ footer{
     border: 1px solid var(--destaque);
     padding: 40px;
     color: #becad1;
-    box-shadow: 5px 6px 25px var(--branco);
+    box-shadow: 5px 6px 25px var(--rosa);
+}
